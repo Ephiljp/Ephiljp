@@ -21,7 +21,7 @@
 
 ##
 
-<img alt="Github" src="https://github.com/Ephiljp" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;">
+<img alt="Github" src="https://github.com/Ephiljp" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github" style="max-width:100%;">
 
 <!--
 **Ephiljp/Ephiljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
