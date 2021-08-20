@@ -20,8 +20,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
 ##
-
-<img alt="Github" src="https://github.com/Ephiljp" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github" style="max-width:100%;">
+ <a href="https://github.com/Ephiljp">
+<img alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github" style="max-width:100%;">
+ 
+</a>
 
 <!--
 **Ephiljp/Ephiljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
