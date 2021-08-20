@@ -21,10 +21,16 @@
 
 ##
  <a href="https://github.com/Ephiljp">
-<img alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github" style="max-width:100%;">
- 
+<img alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github" style="max-width:100%;"> 
 </a>
 
+ <a href="https://www.facebook.com/felipe.hideo">
+<img alt="Github"  src="https://img.shields.io/badge/Facebook-%2312100E.svg?style=plastic&logo=facebook&logoColor=white" style="max-width:100%;"> 
+</a>
+
+ <a href="https://www.instagram.com/felipe_hideo">
+<img alt="Github"  src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=plastic&logo=instagram&logoColor=white" style="max-width:100%;"> 
+</a>
 <!--
 **Ephiljp/Ephiljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
