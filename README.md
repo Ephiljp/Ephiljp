@@ -8,7 +8,7 @@
 
 ##
 
- ** Languages and Tools**
+ ** Languages and Tools **
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -20,6 +20,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
 ##
+
+** Where to find me **
+
  <a href="https://github.com/Ephiljp">
 <img alt="Github"  src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github" style="max-width:100%;"> 
 </a>
@@ -31,6 +34,9 @@
  <a href="https://www.instagram.com/felipe_hideo">
 <img alt="Github"  src="https://img.shields.io/badge/Instagram-%2312100E.svg?style=plastic&logo=instagram&logoColor=white" style="max-width:100%;"> 
 </a>
+
+- 💬 Ask me about anything
+
 <!--
 **Ephiljp/Ephiljp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
